@@ -46,7 +46,7 @@ This repository contains various mini projects such as:
 
 ### Calculator
 <p align="center">
-  <img src="https://i.ibb.co/0RqDgyrS/Calculator.png" width="700">
+  <img src="https://i.ibb.co/0RqDgyrS/Calculator.png" width="40%" />
 </p>
 
 ### Facebook UI Clone

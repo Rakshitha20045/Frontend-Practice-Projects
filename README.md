@@ -1,6 +1,5 @@
 <p align="center">
   <h1 align="center">Web Development and UI Practice</h1>
-  <h3 align="center">HTML, CSS, and JavaScript Practice Projects and UI Implementations</h3>
 </p>
 
 <p align="center">
